@@ -375,7 +375,7 @@ body{
   display: flex;
   position: relative;
   flex-direction: column;
-  background-image: url(/pics/Screenshot\ \(365\).png);
+  background-image: url(../pics/Screenshot\ \(365\).png);
   background-size: auto;
   background-size: contain;
 background-repeat: no-repeat;
