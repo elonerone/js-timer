@@ -1,3 +1,7 @@
-this project made by me and arshanFm (https://github.com/Arshan-Fm)
+it's a timer timer
 
-it's a navbar that can chang color to dark mode and ...
+
+
+
+
+how to start : just extract the file and open html>index.html
